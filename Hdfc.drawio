@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T07:04:34.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="BPbYOaAbH2jsLFBI6E7T" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T07:15:34.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="LnvOR0Y8YujSugayn5Hm" version="23.1.6" type="github">
   <diagram name="Page-1" id="uprE5jeDA3EvAK1ppm78">
     <mxGraphModel dx="1094" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="305" y="66" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QY8g60V_eEfAb3vljTi_-14" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Feasibility Response&lt;/li&gt;&lt;li&gt;LOI Response&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
-          <mxGeometry x="292" y="227" width="190" height="70" as="geometry" />
+          <mxGeometry x="292" y="223" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QY8g60V_eEfAb3vljTi_-15" value="POST Request" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="320" y="56" width="110" height="30" as="geometry" />
@@ -69,13 +69,19 @@
           <mxGeometry x="335" y="560" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QY8g60V_eEfAb3vljTi_-31" value="&lt;u&gt;&lt;a title=&quot;Original URL: https://api-uat.hdfcbank.com/api/v1/dsb/intimationResp. Click or tap if you trust this link.&quot; target=&quot;_blank&quot; href=&quot;https://ind01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fapi-uat.hdfcbank.com%2Fapi%2Fv1%2Fdsb%2FintimationResp&amp;amp;data=05%7C01%7Cshubham.pawar4%40hdfcbank.com%7C284244c8ec6b4c64b9b008db6e779bee%7C827fd02205a64e57be9ccc069b6ae62d%7C0%7C0%7C638225232243491934%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;amp;sdata=QB7lebr9Tw6JcELbrLSqCNylo0V3PcAyTXZZP5ZpUk0%3D&amp;amp;reserved=0&quot;&gt;https://api-uat.hdfcbank.com/api/v1//intimationResp&lt;/a&gt;&lt;/u&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="108" y="504" width="300" height="30" as="geometry" />
+          <mxGeometry x="225" y="422" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QY8g60V_eEfAb3vljTi_-32" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Feasibility Response&lt;/li&gt;&lt;li&gt;LOI Response&lt;/li&gt;&lt;li&gt;Billing Response&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="297" y="452" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QY8g60V_eEfAb3vljTi_-34" value="&lt;div&gt;Doubts-1. Confirm who will create api for response&lt;/div&gt;&lt;div&gt;2. Client creation and LOI are same?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="255" y="356" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-37" value="&lt;div align=&quot;left&quot; style=&quot;font-size: 15px;&quot;&gt;Requirementa-&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 15px;&quot;&gt;Portal For DSB Team to accept Feasibility,LOI and send Billing Response(SISPSG)&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 15px;&quot;&gt;Required-Postman testing &lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="17" y="605" width="580" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-42" value="&lt;div align=&quot;left&quot; style=&quot;font-size: 15px;&quot;&gt;Requirementa-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Develop Api(SISPSG)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="10" y="265" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
