@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T07:15:34.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="LnvOR0Y8YujSugayn5Hm" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-27T10:08:10.325Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="jJB1afVxJMNiHqfR22VI" version="23.1.6" type="github">
   <diagram name="Page-1" id="uprE5jeDA3EvAK1ppm78">
-    <mxGraphModel dx="1094" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="901" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,14 +74,132 @@
         <mxCell id="QY8g60V_eEfAb3vljTi_-32" value="&lt;div align=&quot;left&quot;&gt;&lt;ol&gt;&lt;li&gt;Feasibility Response&lt;/li&gt;&lt;li&gt;LOI Response&lt;/li&gt;&lt;li&gt;Billing Response&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontFamily=Verdana;" vertex="1" parent="1">
           <mxGeometry x="297" y="452" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QY8g60V_eEfAb3vljTi_-34" value="&lt;div&gt;Doubts-1. Confirm who will create api for response&lt;/div&gt;&lt;div&gt;2. Client creation and LOI are same?&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="255" y="356" width="290" height="40" as="geometry" />
+        <mxCell id="QY8g60V_eEfAb3vljTi_-34" value="&lt;div&gt;Doubts-1. Confirm who will create api for response&lt;/div&gt;&lt;div&gt;2. Client creation and LOI are same?&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;3. PICKUP_WISE_BILLING_DETAILS&lt;/div&gt;?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="255" y="331" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="QY8g60V_eEfAb3vljTi_-37" value="&lt;div align=&quot;left&quot; style=&quot;font-size: 15px;&quot;&gt;Requirementa-&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 15px;&quot;&gt;Portal For DSB Team to accept Feasibility,LOI and send Billing Response(SISPSG)&lt;/div&gt;&lt;div align=&quot;left&quot; style=&quot;font-size: 15px;&quot;&gt;Required-Postman testing &lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="17" y="605" width="580" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QY8g60V_eEfAb3vljTi_-42" value="&lt;div align=&quot;left&quot; style=&quot;font-size: 15px;&quot;&gt;Requirementa-&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;Develop Api(SISPSG)&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="10" y="265" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-43" value="Feasible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="418" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-45" target="QY8g60V_eEfAb3vljTi_-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-45" value="HDFC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="66" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-59" target="QY8g60V_eEfAb3vljTi_-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-46" value="SISPSG API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="316" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="759" y="760" as="sourcePoint" />
+            <mxPoint x="777" y="905" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="761" />
+              <mxPoint x="778" y="760" />
+              <mxPoint x="778" y="905" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-48" target="QY8g60V_eEfAb3vljTi_-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="721" y="850" />
+              <mxPoint x="610" y="850" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-48" value="Feasible" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-50" target="QY8g60V_eEfAb3vljTi_-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-50" value="Business not taken" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="719" y="905" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-52" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="800" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-53" target="QY8g60V_eEfAb3vljTi_-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-53" value="Send Response" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="905" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-55" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="654" y="812.5" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-56" target="QY8g60V_eEfAb3vljTi_-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-56" value="HDFC API" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="327" y="905" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-58" value="SIPSG Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="564" y="968" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-46" target="QY8g60V_eEfAb3vljTi_-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="436" y="760" as="sourcePoint" />
+            <mxPoint x="681" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-59" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="737.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-61" value="SISPSG New Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="700" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-63" value="To Be developed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="316" y="788" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-64" value="To Be developed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="487" y="780" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-66" value="Client app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="782.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-68" target="QY8g60V_eEfAb3vljTi_-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-68" value="SISPSG API" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="72" y="905" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-70" value="LOI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="229" y="905" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-72" value="HDFC API" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1071" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-74" value="&lt;div&gt;Dry Run Completed&lt;/div&gt;&lt;div&gt;&amp;nbsp;by SISPSG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="175" y="1081" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-76" value="&lt;div&gt;Feasible by&lt;/div&gt;&lt;div&gt;&amp;nbsp;SISPSG&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="465" y="915" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-77" value="HDFC API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="371" y="958" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QY8g60V_eEfAb3vljTi_-81" target="QY8g60V_eEfAb3vljTi_-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-81" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="1078.5" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-83" value="SISPSG DSB New Portal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1123.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QY8g60V_eEfAb3vljTi_-87" value="LOI Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="197" y="1060" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
