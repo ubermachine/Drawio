@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T05:59:48.718Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="PgY_k1sFF95G85hs_7UU" version="23.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-28T10:11:48.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="SwiYXoYxj91cwCp67tJb" version="23.1.7" type="github">
   <diagram name="Page-1" id="uprE5jeDA3EvAK1ppm78">
     <mxGraphModel dx="901" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -92,10 +92,10 @@
           <mxGeometry x="250.5" y="746.96" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsx73xaWShj0rhNCJzfR-137" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
-          <mxGeometry x="544.5" y="743.6000000000001" width="64" height="47.36" as="geometry" />
+          <mxGeometry x="540" y="740.27" width="68.5" height="50.69" as="geometry" />
         </mxCell>
         <mxCell id="zsx73xaWShj0rhNCJzfR-138" value="DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="560.5" y="782.96" width="40" height="30" as="geometry" />
+          <mxGeometry x="554.25" y="782.96" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zsx73xaWShj0rhNCJzfR-139" value="SISPSG New HDFCPortal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="90.5" y="872.96" width="160" height="30" as="geometry" />
@@ -228,8 +228,8 @@
         <mxCell id="zsx73xaWShj0rhNCJzfR-174" value="SISPSG API" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="73" y="1334" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zsx73xaWShj0rhNCJzfR-175" value="LOI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1334" width="40" height="30" as="geometry" />
+        <mxCell id="zsx73xaWShj0rhNCJzfR-175" value="&lt;div&gt;LOI &lt;br&gt;&lt;/div&gt;&lt;div&gt;Request&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1343" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zsx73xaWShj0rhNCJzfR-176" value="HDFC " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="341" y="1500" width="120" height="60" as="geometry" />
@@ -266,6 +266,15 @@
         </mxCell>
         <mxCell id="zsx73xaWShj0rhNCJzfR-189" value="Process flow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3" y="1112" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zsx73xaWShj0rhNCJzfR-190" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.computer;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="598" y="1508" width="50" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="zsx73xaWShj0rhNCJzfR-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zsx73xaWShj0rhNCJzfR-176" target="zsx73xaWShj0rhNCJzfR-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zsx73xaWShj0rhNCJzfR-193" value="AdHoc Pickup" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="471" y="1498" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
